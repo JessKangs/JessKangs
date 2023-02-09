@@ -9,6 +9,8 @@ Estou desbravando o mundo da programação, e pretendo me aprofundar na área de
 😄 Pronouns: Ela/Dela <br>
 ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕
 
+<h2 dir="auto"></h2>
+
 <div>
 <a href="https://github.com/JessKangs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessKangs&layout=compact&langs_count=7&theme=dracula"/>
