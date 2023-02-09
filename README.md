@@ -1,6 +1,18 @@
 ### Olá <img height="25px" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=29&pause=1000&color=F79680&width=492&height=60&lines=Muito+prazer%2C+meu+nome+%C3%A9+J%C3%A9ssica+%E2%9C%A8" alt="Typing SVG" /></a>
+
+<h2 dir="auto"></h2>
+  <i class="devicon-css3-plain colored"></i>
+  <i class="devicon-html5-plain colored"></i>
+  <i class="devicon-javascript-plain colored"></i>
+  <i class="devicon-react-original colored"></i>
+  <i class="devicon-linux-plain colored"></i>
+  <i class="devicon-docker-plain colored"></i>
+  <i class="devicon-mongodb-plain colored"></i>
+  <i class="devicon-postgresql-plain colored"></i>
+  <i class="devicon-typescript-plain colored"></i>
+  
 <h2 dir="auto"></h2>
 
 Estou desbravando o mundo da programação, como eu gosto muito também da área de design, pretendo me aprofundar na area de Front-End 🔭
