@@ -7,6 +7,6 @@ Estou desbravando o mundo da programação, e pretendo me aprofundar na área de
 😄 Pronouns: Ela/Dela
 ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕
 
-<a href="www.linkedin.com/in/jessicav-santos678" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="www.linkedin.com/in/jessicav-santos678" onclick={window.open("www.linkedin.com/in/jessicav-santos678");} target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
