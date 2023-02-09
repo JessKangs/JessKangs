@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 <a href = "jessicavitorsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<br>
+<h2 dir="auto"></h2>
 
 
 Estou desbravando o mundo da programação, como eu gosto muito também da área de design, pretendo me aprofundar na area de Front-End 🔭
