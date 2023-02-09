@@ -4,7 +4,9 @@
 
 <h2 dir="auto"></h2>
   <i class="devicon-css3-plain colored"></i>
-  <i class="devicon-html5-plain colored"></i>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
   <i class="devicon-javascript-plain colored"></i>
   <i class="devicon-react-original colored"></i>
   <i class="devicon-linux-plain colored"></i>
@@ -12,6 +14,7 @@
   <i class="devicon-mongodb-plain colored"></i>
   <i class="devicon-postgresql-plain colored"></i>
   <i class="devicon-typescript-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   
 <h2 dir="auto"></h2>
 
