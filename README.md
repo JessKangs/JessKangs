@@ -3,18 +3,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=29&pause=1000&color=F79680&width=492&height=60&lines=Muito+prazer%2C+meu+nome+%C3%A9+J%C3%A9ssica+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <h2 dir="auto"></h2>
-  <i class="devicon-css3-plain colored"></i>
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-react-original colored"></i>
-  <i class="devicon-linux-plain colored"></i>
-  <i class="devicon-docker-plain colored"></i>
-  <i class="devicon-mongodb-plain colored"></i>
-  <i class="devicon-postgresql-plain colored"></i>
-  <i class="devicon-typescript-plain colored"></i>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="25px" height="25px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25px" height="25px"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" height="25px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25px" height="25px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25px" height="25px"/>
   
 <h2 dir="auto"></h2>
 
