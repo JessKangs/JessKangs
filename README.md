@@ -4,7 +4,7 @@
 
 Estou desbravando o mundo da programação, e pretendo me aprofundar na área de Front-End 🔭
 
-😄 Pronouns: Ela/Dela
+😄 Pronouns: Ela/Dela <br>
 ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕
 
 <a href="www.linkedin.com/in/jessicav-santos678" target="_blank">
