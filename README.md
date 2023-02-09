@@ -6,9 +6,12 @@
 <a href="www.linkedin.com/in/jessicav-santos678" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href = "jessicavitorsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
+<a href = "jessicavitorsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<br>
 
-Estou desbravando o mundo da programação, e pretendo me aprofundar na área de Front-End 🔭
+
+Estou desbravando o mundo da programação, como eu gosto muito também da área de design, pretendo me aprofundar na area de Front-End 🔭
+Uma das coisas que eu mais gosto sobre programar, é poder vencer desafios constantemente e ver do que eu sou capaz.
 
 😄 Pronouns: Ela/Dela <br>
 ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕
