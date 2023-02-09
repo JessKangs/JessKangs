@@ -2,6 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=29&pause=1000&color=F79680&width=492&height=60&lines=Muito+prazer%2C+meu+nome+%C3%A9+J%C3%A9ssica+%E2%9C%A8" alt="Typing SVG" /></a>
 
+<a href="www.linkedin.com/in/jessicav-santos678" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+<a href = "jessicavitorsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <h2 dir="auto"></h2>
 
 Estou desbravando o mundo da programação, e pretendo me aprofundar na área de Front-End 🔭
@@ -17,8 +22,5 @@ Estou desbravando o mundo da programação, e pretendo me aprofundar na área de
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessKangs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<a href="www.linkedin.com/in/jessicav-santos678" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-<a href = "jessicavitorsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
