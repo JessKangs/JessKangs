@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&size=35&pause=1000&color=800000&width=447&height=74&lines=Boas+vindas+ao+meu+perfil+%E2%9A%A1)](https://git.io/typing-svg)
 
-Estou desbravando o mundo da programação 🔭 <br>
+Desbravando o mundo da programação 🔭 <br>
 
-Pretendo continuar me desenvolvendo e no futuro me aprofundar na area de Front-End estudando também design para melhorar minhas habilidades. <br>
+Pretendo continuar me desenvolvendo e no futuro me aprofundar na area de Front-End e estudar também mais a área de design para melhorar minhas habilidades. <br>
 Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios e descobrir constantemente do que eu sou capaz. <br>
 
 👩🏽‍💻 Principais tecnologias e ferramentas:
