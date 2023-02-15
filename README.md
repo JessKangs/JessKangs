@@ -9,8 +9,8 @@ E também, no futuro estudar mais a área de design para melhorar minhas habilid
 Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios <br>
 e descobrir constantemente do que eu sou capaz. <br>
 
+ 👩🏽‍💻 Principais tecnologias e ferramentas:
 <h2 dir="auto"></h2>
-  👩🏽‍💻 Principais tecnologias e ferramentas:
 
   <div align="center" dir="auto" style="align:center, display:flex, flex-direction:column, align-items:center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55px" height="55px"/>
