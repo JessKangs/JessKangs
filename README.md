@@ -20,15 +20,16 @@ Pretendo continuar me desenvolvendo e no futuro me aprofundar na area de Front-E
 Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios e descobrir constantemente do que eu sou capaz. 
 
 😄 Pronouns: Ela/Dela <br>
-⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕 <br>
   
 <div align="center" dir="auto">
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="120px" height="120px" object-fit="cover" />
+  ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕 <br>
+  
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="140px" height="120px" object-fit="cover" />
   
   <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="140px" height="120px" object-fit="cover" />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="120px" height="120px" object-fit="cover"  />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="140px" height="120px" object-fit="cover"  />
   
 </div>
 
