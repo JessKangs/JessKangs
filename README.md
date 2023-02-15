@@ -35,9 +35,7 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
 
 <h2 dir="auto"></h2>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessicav-santos678/) 
-
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jessicavitorsantos@outlook.com?)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessicav-santos678/) [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jessicavitorsantos@outlook.com?)
 
 <h2 dir="auto"></h2>
 
