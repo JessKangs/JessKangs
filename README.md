@@ -24,7 +24,8 @@ Uma das coisas que eu mais gosto sobre programar, é poder vencer desafios const
 <h2 dir="auto"></h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessicav-santos678/) 
-<a href = "mailto:jessicavitorsantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />](mailto:jessicavitorsantos@outlook.com)
 
 <h2 dir="auto"></h2>
 
