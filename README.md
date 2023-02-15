@@ -15,8 +15,8 @@
   
 <h2 dir="auto"></h2>
 
-Estou desbravando o mundo da programação, como eu gosto muito também da área de design, pretendo me aprofundar na area de Front-End 🔭 <br>
-Uma das coisas que eu mais gosto sobre programar, é poder vencer desafios constantemente e descobrir do que eu sou capaz.
+Estou desbravando o mundo da programação~ como também gosto muito da área de design, pretendo me aprofundar na area de Front-End 🔭 <br>
+Uma das coisas que eu mais gosto sobre programar, é poder vencer desafios constantemente e descobrir constantemente do que eu sou capaz.
 
 😄 Pronouns: Ela/Dela <br>
 ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕
