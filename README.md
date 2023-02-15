@@ -29,7 +29,7 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
   
   <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="140px" height="120px"  />
   
-  <i><p font-size="10px" font-weight="200">"When the locket is open, we're all the same"</ p></i>
+  <i font-size="7px">"When the locket is open, we're all the same"</i>
   
 </div>
 
