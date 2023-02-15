@@ -1,6 +1,6 @@
 ### Olá <img height="25px" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif" /> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=29&pause=1000&color=F79680&width=492&height=60&lines=Bem+vindo+ao+meu+perfil%2C+%E2%9C%A8" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&size=35&pause=1000&color=800000&width=447&height=74&lines=Boas+vindas+ao+meu+perfil+%E2%9A%A1)](https://git.io/typing-svg)
 
 <h2 dir="auto"></h2>
   <div align="center" dir="auto" style="align:center, display:flex, flex-direction:column, align-items:center"> 
@@ -27,7 +27,7 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
   
   <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="140px" height="120px"  />
   
-  <i font-size="7px">"When the locket is open, we're all the same"</i>
+  <i font-size="5px">"When the locket is open, we're all the same"</i>
   
 </div>
 
