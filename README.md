@@ -23,7 +23,7 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
   
   ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕 <br>
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="140px" height="120px" styled="color:red, object-fit:contain" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="140px" height="120px" object-fit="contain" />
   
   <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="140px" height="120px" />
   
