@@ -4,7 +4,8 @@
 
 Desbravando o mundo da programação 🔭 <br>
 
-Pretendo continuar me desenvolvendo e no futuro me aprofundar na area de Front-End e estudar também mais a área de design para melhorar minhas habilidades. <br>
+Pretendo continuar me desenvolvendo e me aprofundar na area de Front-End. <br>
+E também, no futuro estudar mais a área de design para melhorar minhas habilidades. <br>
 Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios e descobrir constantemente do que eu sou capaz. <br>
 
 👩🏽‍💻 Principais tecnologias e ferramentas:
