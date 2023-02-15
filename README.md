@@ -30,11 +30,11 @@ e descobrir constantemente do que eu sou capaz. <br>
   
   ⚡ Curiosidade: Eu adoro música e sou fã de K-pop 💕 <br>
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="140px" height="120px" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="160px" height="140px" />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="140px" height="120px" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="160px" height="140px" />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="140px" height="120px"  />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="160px" height="140px"  />
   
   <i font-size="5px">"When the locket is open, we're all the same"</i>
   
