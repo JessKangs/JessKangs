@@ -6,7 +6,9 @@ Desbravando o mundo da programação 🔭 <br>
 
 Pretendo continuar me desenvolvendo e me aprofundar na area de Front-End. <br>
 E também, no futuro estudar mais a área de design para melhorar minhas habilidades. <br>
-Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios e descobrir constantemente do que eu sou capaz. <br>
+Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios <br>
+e descobrir constantemente do que eu sou capaz. <br>
+<h2 dir="auto"></h2>
 
 👩🏽‍💻 Principais tecnologias e ferramentas:
 <h2 dir="auto"></h2>
