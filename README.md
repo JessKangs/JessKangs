@@ -1,4 +1,4 @@
-### Olá <img height="25px" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif" />
+### Olá <img height="25px" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif" /> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=29&pause=1000&color=F79680&width=492&height=60&lines=Muito+prazer%2C+meu+nome+%C3%A9+J%C3%A9ssica+%E2%9C%A8" alt="Typing SVG" /></a>
 
@@ -18,18 +18,18 @@
 Estou desbravando o mundo da programação~ <br>
 Pretendo continuar me desenvolvendo e no futuro me aprofundar na area de Front-End estudando um pouco também de design para melhorar minhas habilidades 🔭 <br>
 Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios e descobrir constantemente do que eu sou capaz. 
-
-😄 Pronouns: Ela/Dela <br>
   
 <div align="center" dir="auto">
   
   ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕 <br>
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="140px" height="120px" object-fit="contain" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="140px" height="120px" style="objectFit:contain" />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="140px" height="120px" object-fit="contain" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="140px" height="120px" />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="140px" height="120px" object-fit="contain"  />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="140px" height="120px"  />
+  
+  <h1 style="textDecoration:underline, fontStyle:italic">"When the locket is open, we're all the same"</h1>
   
 </div>
 
