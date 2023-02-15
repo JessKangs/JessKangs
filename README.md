@@ -24,11 +24,11 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
   
 <div align="center" dir="auto">
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="90px" height="90px" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac1.gif" width="100px"  />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="90px" height="90px" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="100px" />
   
-  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="90px" height="90px" />
+  <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac3.gif" width="100px"  />
   
 </div>
 
