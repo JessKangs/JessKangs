@@ -21,7 +21,7 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
   
 <div align="center" dir="auto">
   
-  ⚡ Fun fact: Eu adoro música e sou fã de K-pop 💕 <br>
+  ⚡ Curiosidade: Eu adoro música e sou fã de K-pop 💕 <br>
   
   <img src="https://github.com/JessKangs/JessKangs/blob/master/gifs/stray-kids-maniac2.gif" width="140px" height="120px" />
   
