@@ -8,10 +8,10 @@ Pretendo continuar me desenvolvendo e me aprofundar na area de Front-End. <br>
 E também, no futuro estudar mais a área de design para melhorar minhas habilidades. <br>
 Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos desafios <br>
 e descobrir constantemente do que eu sou capaz. <br>
-<h2 dir="auto"></h2>
 
-👩🏽‍💻 Principais tecnologias e ferramentas:
 <h2 dir="auto"></h2>
+  👩🏽‍💻 Principais tecnologias e ferramentas:
+
   <div align="center" dir="auto" style="align:center, display:flex, flex-direction:column, align-items:center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55px" height="55px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="55px" height="55px"/> 
@@ -40,11 +40,14 @@ e descobrir constantemente do que eu sou capaz. <br>
   
 </div>
 
-💻 Contato:
 <h2 dir="auto"></h2>
+💻 Contato:
 
 <div align="center" dir="auto">
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessicav-santos678/) [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jessicavitorsantos@outlook.com?)
+  
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessicav-santos678/) 
+  [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jessicavitorsantos@outlook.com?)
+  
 </div >
 
 <h2 dir="auto"></h2>
