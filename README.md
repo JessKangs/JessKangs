@@ -10,11 +10,11 @@ Uma das coisas que eu mais gosto sobre programar, é sempre poder vencer novos d
 👩🏽‍💻 Principais tecnologias e ferramentas:
 <h2 dir="auto"></h2>
   <div align="center" dir="auto" style="align:center, display:flex, flex-direction:column, align-items:center"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="55px" height="55px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px" height="55px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55px" height="55px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55px" height="55px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="55px" height="55px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55px" height="55px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55px" height="55px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55px" height="55px"/>
